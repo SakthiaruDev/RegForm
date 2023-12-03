@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.cover{
+    width: 300px;
+    padding: 16px;
+    box-shadow: #a1a8a2 0 0 2px 2px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 4px;
+}
+   
+.login h1{
+    font-weight: 600;
+    text-shadow: #75c579 2px 2px;
+}
+.details{
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    font-size: 14px;
+}
+.sub{
+    background-color:#75c579;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.sub:hover{
+    background-color: #4CAF50;
+}
